@@ -1,4 +1,4 @@
-# MIVisionX-inference
+# MIVisionX Python Inference Application
 
 MIVisionX Inference Application using pre-trained ONNX/NNEF/Caffe models
 
