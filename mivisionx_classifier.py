@@ -190,7 +190,7 @@ if __name__ == '__main__':
 	# input pre-processing values
 	Ax=0
 	if(inputAdd != ''):
-		Ax = int(inputAdd)
+		Ax = float(inputAdd)
 	Mx=1
 	if(inputMultiply != ''):
 		Mx = float(inputMultiply)
